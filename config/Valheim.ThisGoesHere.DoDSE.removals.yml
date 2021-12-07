@@ -1,0 +1,8 @@
+PrintComment: Removing some unnecessary mods that just don't add to the game
+DeleteFile:
+- plugins/KGvalheim-MagicOverhaul
+- plugins/OdinPlus-BasementJVLedition
+- plugins/OdinPlus-BuildIt
+- plugins/OdinPlus-OdinArchitect
+- plugins/OdinPlus-PotionPlus
+- plugins/RockerKitten-BoneAppetit

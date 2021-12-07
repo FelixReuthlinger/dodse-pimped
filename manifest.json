@@ -1,0 +1,19 @@
+{
+	"name": "DoOrDieSoloExperience_pimped",
+	"description": "Do Or Die Solo Experience pimped with more mods",
+	"version_number": "1.0.0",
+	"website_url": "https://github.com/FelixReuthlinger/dodse-pimped",
+	"dependencies": [
+		"Horem-DoOrDieSoloExperience-1.2.5",
+		"Horem-DoOrDieMonsters-0.4.4",
+		"Azumatt-BetterWards-1.6.4",
+		"ASharpPen-This_Goes_Here-1.1.0",
+		"FixItFelix-SinglePlayer_Essentials-1.4.1",
+		"FixItFelix-NoSkillDrain-1.0.1",
+		"FixItFelix-RegenerativeNature-1.2.3",
+		"FixItFelix-CreatureLeveLAndLootControl_itemconfig-1.2.4",
+		"FixItFelix-EpicLoot_HeartAndHome_LootTables-1.2.1",
+		"FixItFelix-EpicLoot_reworked_enchants-1.1.0",
+		"denikson-BepInExPack_Valheim-5.4.1601"
+	]
+}
