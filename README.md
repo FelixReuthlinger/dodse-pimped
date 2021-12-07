@@ -25,6 +25,7 @@ This is a pimped version of the
 
 ## Changelog
 
+* 1.0.1 -> fixed mod deletion
 * 1.0.0 -> initial version
 
 ## Contact
