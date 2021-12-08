@@ -1,4 +1,4 @@
-# DoOrDieSoloExperience - pimped
+# WeirdNamePack
 
 This is a pimped version of the
 [DoOrDieSoloExperience](https://valheim.thunderstore.io/package/Horem/DoOrDieSoloExperience/) mod pack.
@@ -25,8 +25,7 @@ This is a pimped version of the
 
 ## Changelog
 
-* 1.0.1 -> fixed mod deletion
-* 1.0.0 -> initial version
+* 1.0.0 -> initial version, re-upload with different name
 
 ## Contact
 
