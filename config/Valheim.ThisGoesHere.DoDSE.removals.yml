@@ -1,8 +1,8 @@
 PrintComment: Removing some unnecessary mods that just don't add to the game
-DeleteFile:
-- plugins/KGvalheim-MagicOverhaul/MagicOverhaul.dll
-- plugins/OdinPlus-BasementJVLedition/Basement.dll
-- plugins/OdinPlus-BuildIt/BuildIt.dll
-- plugins/OdinPlus-OdinArchitect/OdinArchitect/OdinArchitect.dll
-- plugins/OdinPlus-PotionPlus/PotionsPlus.dll
-- plugins/RockerKitten-BoneAppetit/BoneAppetit.dll
+DeleteFolder:
+- plugins/KGvalheim-MagicOverhaul
+- plugins/OdinPlus-BasementJVLedition
+- plugins/OdinPlus-BuildIt
+- plugins/OdinPlus-OdinArchitect/OdinArchitect
+- plugins/OdinPlus-PotionPlus
+- plugins/RockerKitten-BoneAppetit
