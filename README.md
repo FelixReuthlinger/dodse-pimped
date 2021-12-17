@@ -25,6 +25,7 @@ This is a pimped version of the
 
 ## Changelog
 
+* 1.0.2 -> added CLLC default config to override age of world and using item configs
 * 1.0.1 -> used mod's versions updated
 * 1.0.0 -> initial version, re-upload with different name
 

@@ -1,7 +1,7 @@
 {
 	"name": "WeirdNamePack",
 	"description": "A nice single player mod pack pimped with more mods",
-	"version_number": "1.0.1",
+	"version_number": "1.0.2",
 	"website_url": "https://github.com/FelixReuthlinger/dodse-pimped",
 	"dependencies": [
 		"Horem-DoOrDieSoloExperience-1.2.5",
